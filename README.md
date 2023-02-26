@@ -1,7 +1,7 @@
 # Social-Media-website-with-django
 This is an image sharing social media website built using HTML, CSS, JavaScript, Python, and the Django web framework. The website allows users to upload, share, and discover photos and images with other users.
 
-Features
+<h3>Features</h3>
 * User registration and login
 * User profiles with profile picture and bio
 Follow other users
