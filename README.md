@@ -12,10 +12,15 @@ This is an image sharing social media website built using HTML, CSS, JavaScript,
 <li>Responsive design for desktop and mobile devices</li>
 <li>Security measures such as password hashing and data encryption</li>
 <li>User authentication system with Django</li>
+</ul>
 
-Technologies Used
-HTML
-CSS
-JavaScript
-Python
-Django
+
+<h3>Technologies Used</h3>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Django</li>
+<li>SQLite</li>
+</ul>
